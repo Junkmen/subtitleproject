@@ -1,4 +1,4 @@
-require_relative 'subtitle'
+require_relative '../Subtitle/subtitle'
 class SubtitleParser
 
 	#Reads a file and returns ordered array of Subtitles 
